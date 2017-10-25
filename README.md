@@ -1,6 +1,6 @@
 # Stranger_Buddies
 ....
-Feratures:
+Features:
 User Profile : Overall rating
                Liability, punctual, etc.
                Skill level
@@ -13,3 +13,7 @@ Restaurant
 Beer
 Pool/Snooker
 Gym
+Stranger bandi
+tinder bandi
+tinde bandi
+thanks tinde for the repo
